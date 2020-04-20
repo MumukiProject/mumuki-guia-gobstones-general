@@ -1,0 +1,1 @@
+¿Pudiste darte cuenta qué destinos va a visitar Juani? Ciudad de San Luis :cityscape:, Villa Mercedes :evergreen_tree: y Sierra de las Quijadas :t_rex:, en ese orden. 

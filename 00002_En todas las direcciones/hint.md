@@ -1,0 +1,1 @@
+Hablamos de kilómetros pero en Gobstones, un kilómetro sería una celda. :stuck_out_tongue_closed_eyes:
