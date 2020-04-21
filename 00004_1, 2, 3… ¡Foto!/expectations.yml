@@ -8,7 +8,7 @@ expectations:
   inspection: Uses:CargarFoto
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: program
-  inspection: Uses:RecorrerMapa
+  inspection: Uses:Recorrer_KilometrosHaciaEl_
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: CargarFoto
   inspection: UsesIf
