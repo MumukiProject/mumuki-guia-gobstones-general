@@ -2,15 +2,15 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: Declares:RecorrerMapa
+  inspection: Declares:Recorrer
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: program
-  inspection: Uses:RecorrerMapa
+  inspection: Uses:Recorrer
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: DeclaresComputationWithArity2:RecorrerMapa
+  inspection: DeclaresComputationWithArity2:Recorrer
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: RecorrerMapa
+  binding: Recorrer
   inspection: UsesRepeat
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: program

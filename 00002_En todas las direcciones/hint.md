@@ -1,1 +1,1 @@
-Hablamos de kilómetros pero en Gobstones, un kilómetro sería una celda. :stuck_out_tongue_closed_eyes:
+El procedimiento `Recorrer` va a tener que permitirle moverse cierta cantidad de kilómetros en una dirección. Hablamos de kilómetros pero en Gobstones, un kilómetro sería una celda. :stuck_out_tongue_closed_eyes:
