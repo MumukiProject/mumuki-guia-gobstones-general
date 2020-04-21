@@ -13,5 +13,8 @@ expectations:
   binding: Recorrer
   inspection: UsesRepeat
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: program
+  binding: Intransitive:program
   inspection: Uses:Marcar_
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Recorrer
+  inspection: Not:Uses:Marcar_
