@@ -4,4 +4,4 @@
 
 Juani está muy felíz por el programa que hiciste :grin: y ya quiere usarlo para marcar los destinos. Pero para eso, necesita un procedimiento que le permita moverse cierta cantidad de kilómetros en el mapa en una dirección :sweat_smile:. ¡Suena a que vos podés hacerlo! :stuck_out_tongue_winking_eye:
 
-> Construí el programa para recorrer 2 kilómetros al Este y 1 al Norte, luego 2 al Este y 1 al Sur y finalmente 3 al Norte y 4 al Oeste. Luego de cada recorrida hay que marcar el destino. Para esto, necesitarás definir el procedimiento `Recorrer`.
+> Construí el programa para marcar estos 3 destinos: Ciudad de San Luis (2 kilómetros al Este y 1 al Norte), luego Villa Mercedes (2 al Este y 1 al Sur) y finalmente Sierra de las Quijadas (3 al Norte y 4 al Oeste). Para esto, necesitarás definir el procedimiento `Recorrer`. Comenzaremos en el casillero inferior izquierdo.
