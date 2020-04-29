@@ -18,3 +18,9 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: Recorrer
   inspection: Not:Uses:Marcar_
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Intransitive:program
+  inspection: Not:Uses:Mover
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Uses:destino
